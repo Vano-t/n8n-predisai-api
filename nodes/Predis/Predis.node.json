@@ -1,0 +1,26 @@
+{
+	"node": "n8n-nodes-base.Predis",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Marketing"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": ""
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": ""
+			}
+		],
+		"generic": [
+			{
+				"label": "2025: The Year to Automate the New You with n8n",
+				"icon": "☀️",
+				"url": ""
+			}
+		]
+	},
+	"alias": ["Predis"]
+}
