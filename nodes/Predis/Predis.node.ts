@@ -3,7 +3,7 @@ import { VersionedNodeType } from 'n8n-workflow';
 
 import { PredisV1 } from './Predis/Predis.node';
 
-export class Preids extends VersionedNodeType {
+export class Predis extends VersionedNodeType {
 	constructor() {
 		const baseDescription: INodeTypeBaseDescription = {
 			displayName: 'Predis API',
