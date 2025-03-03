@@ -1,9 +1,18 @@
 {
   "name": "n8n-nodes-predis",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "predis.ai api node",
   "keywords": [
-    "n8n-community-node-package"
+    "n8n-community-node-package",
+    "n8n",
+    "n8n-nodes",
+    "Predis.ai",
+    "Predis",
+    "Social Media",
+    "AI Content Generation",
+    "Marketing Automation",
+    "Content Creation",
+    "Workflow Automation"
   ],
   "license": "MIT",
   "homepage": "",
